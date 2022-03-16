@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FoodStore</string>
+    <string name="title_home">Home</string>
+    <string name="title_apple">Goods</string>
+    <string name="title_basket">Basket</string>
+    <string name="title_hurt">Hurt</string>
+    <string name="title_person">Person</string>
+    <string name="good_image">good_image</string>
+    <string name="DescriptionTab">Oписание</string>
+    <string name="ParametersTab">Характеристики</string>
+    <string name="next">Next</string>
+    <string name="star">Star</string>
+    <string name="shopimage">ShopImage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
